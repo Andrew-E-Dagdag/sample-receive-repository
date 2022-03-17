@@ -1,0 +1,19 @@
+{
+  "name": "sample-receive-repository",
+  "version": "1.0.0",
+  "description": "Will receive commits to main from the original repository at https://github.com/Andrew-E-Dagdag/sample-push-repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrew-E-Dagdag/sample-receive-repository.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrew-E-Dagdag/sample-receive-repository/issues"
+  },
+  "homepage": "https://github.com/Andrew-E-Dagdag/sample-receive-repository#readme"
+}
